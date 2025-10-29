@@ -2,7 +2,7 @@
 
 🎯 **Data Engineer | MSc. Information Systems | Data Enthusiast**  
 
-I’m a **detail-oriented data professional** with over **3 years of experience** in data engineering, analysis, and visualization.  
+I’m a **detail-oriented data professional** with over **2.5 years of experience** in data engineering, analysis, and visualization.  
 Currently working in **Dublin** in the Data field, I specialize in building reliable, scalable, and insightful data solutions.  
 
 My work bridges **data quality, automation, and analytics**, with hands-on experience across SQL, Python, Power BI, and Azure Databricks.  
