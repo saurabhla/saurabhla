@@ -31,3 +31,11 @@ I’m passionate about turning complex data into **accurate, audit-ready, and ac
 📈 Dashboards and visual analytics built using **Power BI**, integrating insights from diverse data sources:  
 - 🔸 [Power BI Blinkit Report](https://github.com/saurabhla/power-bi-blinkit-report)  
 
+---
+
+## 🤖 Machine Learning Projects  
+💡 Predictive modeling and applied ML for real-world insights:  
+- 🔺 [Heart Attack Risk Prediction](https://github.com/saurabhla/heart-attack-risk-prediction)  
+  Built and evaluated multiple ML models (Logistic Regression, Random Forest, XGBoost, DNN) on a clinical dataset.  
+  Applied **SMOTE** to handle class imbalance and improved recall for high-risk patient detection.
+
